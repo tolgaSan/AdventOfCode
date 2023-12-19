@@ -1,0 +1,3 @@
+/Users/tolgasan/CLionProjects/AdventOfCode/cmake-build-debug/CMakeFiles/AdventOfCode2023.dir
+/Users/tolgasan/CLionProjects/AdventOfCode/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tolgasan/CLionProjects/AdventOfCode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
