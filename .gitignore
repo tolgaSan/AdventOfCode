@@ -6,3 +6,7 @@ cmake-build-debug/
 .idea/
 main.cpp
 CMakeLists.txt
+data.txt
+day3.txt
+dataday3.txt
+day3of2015
