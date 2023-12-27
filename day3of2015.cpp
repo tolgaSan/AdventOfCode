@@ -9,7 +9,7 @@
 
 #include <set>
 using namespace std;
-
+/*
 void visitedHouses(const std::string& directions, std::set<std::pair<int, int> >& visited_houses){
     //santas und robosanta(x2,y2) position
     int x = 0, y = 0;
@@ -42,10 +42,10 @@ void visitedHouses(const std::string& directions, std::set<std::pair<int, int> >
         visited_houses.insert(std::make_pair(current_x, current_y));
         santas_turn = !santas_turn;
     }
-}
+}*/
 
 int main(){
-
+/*
     ifstream input_file("illegalpath/data.txt");
     string line;
     if(!input_file){
@@ -64,10 +64,10 @@ int main(){
         deliveredToHouses++;
 
     }
-*/
+*//*
     std::set<std::pair<int, int> > visited_houses;
     visitedHouses(line, visited_houses);
 
-    cout << "visited houses: " << visited_houses.size() << endl;
+    cout << "visited houses: " << visited_houses.size() << endl;*/
     return 0;
 }
